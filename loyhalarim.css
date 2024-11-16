@@ -274,8 +274,3 @@ img {
   font-weight: 600;
   color: #fff;
 }
-
-.project-list {
-  display: flex;
-  flex-wrap: wrap;
-}
